@@ -1,4 +1,7 @@
 package com.vignesh.demo
 
-class BasicFunctions {
+import com.vignesh.demo.utils.sayHello
+
+fun main() {
+    sayHello()
 }
